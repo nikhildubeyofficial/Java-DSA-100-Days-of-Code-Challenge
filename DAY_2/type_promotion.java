@@ -27,7 +27,7 @@ public class type_promotion {
         // System.out.println(ab);
 
         // right
-        byte b =5 ;
-        b = (byte) (b*2);
+        byte b1 = 5 ;
+        b = (byte) (b1*2);
     }
 }
