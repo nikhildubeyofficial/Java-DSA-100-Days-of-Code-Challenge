@@ -9,7 +9,7 @@ public class logical {
         // T   F   F
         // F   T   F
         // F   F   F
-        System.out.println((3<2) && (3>2));
+        // System.out.println((3<2) && (3>2));
 
         // Logical OR
         // T   T   T
