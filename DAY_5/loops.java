@@ -9,5 +9,11 @@ public class loops {
             System.out.println("Hello World !");
             counter++;
         }
+
+        // Infinite while loop
+        // while (true){
+        //     System.out.println("Hello World !");
+        //     counter++;
+        // }
     }
 }
