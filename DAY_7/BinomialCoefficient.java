@@ -1,4 +1,4 @@
-package DAY_7.Factorial;
+package DAY_7;
 // import DAY_7.Factorial;
 
 
